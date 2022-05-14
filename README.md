@@ -1,2 +1,2 @@
-# homebrew-ac-cli
-Hosts the Agisoft Cloud CLI Homebrew formula
+# homebrew-agisoft-cloud
+Hosts the Agisoft Cloud Tools Homebrew formula
